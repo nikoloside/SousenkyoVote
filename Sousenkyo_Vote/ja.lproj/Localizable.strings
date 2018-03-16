@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Sousenkyo_Vote
+
+  Created by Yuhang Huang on 2015/05/25.
+  Copyright (c) 2015年 Niko Kou@LOS_studio. All rights reserved.
+*/
+"LIST_MODE" = "リスト作成";
+"VOTE_MODE" = "投票";
+"OUT_DATE" = "投票期間外";
+"OUT_INTERNET" = "インターネット未接続";
+"ERROR" = "エラー";
+"TIPS" = "下の白い枠内にシリアル番号が\nなるべく大きく収まり、\n他の文字を入れないように撮影してください。";
+"CEMERA" = "撮影";
+"MAIL" = "共有";
+"LIST_NUMBER" = "読み込んだシリアル番号一覧";
+"NO_LIGHT" = "LEDライト存在しない";
+"SAVE" = "Auto";
+"DEL" = "";
+"CANCEL" = "キャンセル";
+"SUBMIT" = "確認";
+"CLOSE" = "閉じる";
+"MEMBER" = "メンバー選択";
+"TEAM" = "チーム選択";
+"REFRESH" = "再チェック";
+"NO_CAMERA" = "カメラの許可を得ていない";
+"SERVER_WRONG" = "サーバーデータがエラー";

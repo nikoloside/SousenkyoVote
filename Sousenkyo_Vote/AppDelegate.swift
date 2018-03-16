@@ -12,10 +12,28 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    //navigationControllerを追加
+    private var navigationController: UINavigationController?
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
+        //FVCとNavCを初期化
+        let myFirstViewController : ViewController = ViewController()
+        
+        navigationController = UINavigationController(rootViewController: myFirstViewController)
+        
+        navigationController!.navigationBar.tintColor = UIColor.whiteColor()
+        navigationController!.navigationBar.setBackgroundImage(UIImage(), forBarMetrics: UIBarMetrics.Default)
+        navigationController!.navigationBar.shadowImage = UIImage()
+        
+        self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
+        
+        //rootViewControllerを指定
+        self.window!.rootViewController = navigationController
+        
+        self.window!.makeKeyAndVisible()
+        
         return true
     }
 

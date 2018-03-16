@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Sousenkyo_Vote
+
+  Created by Yuhang Huang on 2015/05/25.
+  Copyright (c) 2015年 Niko Kou@LOS_studio. All rights reserved.
+*/
+"LIST_MODE" = "List Mode";
+"VOTE_MODE" = "Vote Mode";
+"OUT_DATE" = "Out of Vote Period";
+"OUT_INTERNET" = "Out of Internet Connection";
+"ERROR" = "Error";
+"TIPS" = "Make sure only the Serial Numbers \n are contained in the rectangle";
+"CEMERA" = "Cemera";
+"MAIL" = "Mail";
+"LIST_NUMBER" = "List of AKB48 Serial Number";
+"NO_LIGHT" = "No Torch";
+"SAVE" = "Auto";
+"DEL" = "Del";
+"CANCEL" = "Cancel";
+"SUBMIT" = "Submit";
+"CLOSE" = "Close";
+"MEMBER" = "Member Select";
+"TEAM" = "Team Select";
+"REFRESH" = "Refresh";
+"NO_CAMERA" = "No camera";
+"SERVER_WRONG" = "Fault on server";

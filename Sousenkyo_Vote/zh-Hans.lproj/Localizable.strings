@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Sousenkyo_Vote
+
+  Created by Yuhang Huang on 2015/05/25.
+  Copyright (c) 2015年 Niko Kou@LOS_studio. All rights reserved.
+*/
+"LIST_MODE" = "分享模式";
+"VOTE_MODE" = "投票";
+"OUT_DATE" = "投票期间外";
+"OUT_INTERNET" = "请连接网络";
+"ERROR" = "错误";
+"TIPS" = "尽量把想要读取的文字 \n 贴近正方形框的四个边 \n 确保正方形框内不存在其他图形";
+"CEMERA" = "拍摄";
+"MAIL" = "分享";
+"LIST_NUMBER" = "AKB48序列号列表";
+"NO_LIGHT" = "并没有闪光灯";
+"SAVE" = "自动";
+"DEL" = "";
+"CANCEL" = "取消";
+"SUBMIT" = "确认";
+"CLOSE" = "关闭";
+"MEMBER" = "选择成员";
+"TEAM" = "选择Team";
+"REFRESH" = "刷新";
+"NO_CAMERA" = "请在设置中获取相机使用许可";
+"SERVER_WRONG" = "服务器数据失效";
