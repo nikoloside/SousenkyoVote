@@ -4,6 +4,8 @@ https://youtu.be/6CwkOJ_0D9U
 「SousenkyoVote1.2」
 https://appsto.re/jp/ZLGz7.i
 
+-------------------
+
 去年:
 
 https://youtu.be/acRni-nOJ9A
@@ -30,6 +32,10 @@ https://youtu.be/acRni-nOJ9A
 
 6.投票出来たこと確認できたら「閉じる」ボタン押して3番の手順に戻って繰り返す
 
+-------------------
+
 このシリーズは以下2つのプロダクトもあります。
+
 AKB48総選挙自動投票サポートシステム  https://youtu.be/0u5gIk9fNXA
+
 二本の柱自動投票サポートシステム https://youtu.be/5sB3TvEdSfs
