@@ -4,6 +4,8 @@ https://youtu.be/6CwkOJ_0D9U
 「SousenkyoVote1.2」
 https://appsto.re/jp/ZLGz7.i
 
+DL Count:2800
+
 -------------------
 
 去年:
